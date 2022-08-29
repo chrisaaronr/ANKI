@@ -98,7 +98,7 @@ const username = str2.slice(usernamePrefixIndex);
 console.log(username); // "gitconnected"
 ```
 
-`slice()` takes the beginning index as the first parameter and an optional ending index as the second parameter -- `str.slice(beginIndex[, endIndex])`.
+`slice()` takes the beginning index as the first parameter and an optional ending index as the second parameter -- `str.slice(beginIndex, endIndex)`.
 If no ending index is supplied, it slices to the end of the string starting with your `beginIndex`.  if a negative `beginIndex` is used, it will slice backwards from the end of the string.
 
 ```
