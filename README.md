@@ -1,6 +1,6 @@
 
 # ANKI
-My ANKI cards for String Methods,... etc. in markdown.  Grouped by concepts, each folder contains a markdown file of my cards and CodeWar katas related to the topic.
+My ANKI cards for String Methods, Array Methods,... etc. in markdown.  Grouped by concepts, each folder contains a markdown file of my cards and CodeWar katas related to the topic.
 
 ## How It's Made:
 **Tech used:** Markdown, JavaScript
